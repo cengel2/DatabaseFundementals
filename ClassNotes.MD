@@ -1,3 +1,4 @@
+#### Febuary 1, 2018
 # **SQL** - *Strctured Query Language*
 ## **Textual Data Types**
 -  **char** - *fixed length string*
