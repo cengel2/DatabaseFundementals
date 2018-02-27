@@ -1,3 +1,4 @@
+
 --Simple Select Exercise 2
 -- This set of exercises demonstrates performing simple Aggregate functions
 -- to get results such as SUM(), AVG(), COUNT() 
